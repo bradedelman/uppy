@@ -1,5 +1,4 @@
 import Emitter from 'component-emitter'
-import io from 'socket.io-client'
 import { io } from 'socket.io-client'
 import has from '@uppy/utils/lib/hasProperty'
 import NetworkError from '@uppy/utils/lib/NetworkError'
